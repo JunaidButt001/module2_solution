@@ -1,2 +1,2 @@
-# http://module2_solution
+# http://module2_solution.github.io
 My Assignment
